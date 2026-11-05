@@ -4,7 +4,6 @@ Gioco quiz sul fuorigioco. L'utente veste i panni del **VAR** (Video Assistant
 Referee) e, osservando 10 azioni simulate in 3D, deve decidere se l'attaccante
 era in **fuorigioco** o in **posizione regolare** al momento del passaggio.
 
-Progetto finale del corso Epicode.
 
 ## Funzionalità
 
